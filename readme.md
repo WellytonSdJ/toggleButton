@@ -1,8 +1,8 @@
 # Toggle Button
 
 <p align="center">
-![](img/hamburger)
-![](img/x)
+![](img/hamburger.png)
+![](img/x.png)
 <img href="./hamburger.png" width="300"/>
 <img href="./x.png" width="300"/>
 </p>
